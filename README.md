@@ -17,14 +17,14 @@ Project created in order to automate tests from Phptravels flights WebSite, focu
 
 * Installment/Preparation
 
-1 - Clone the project from [https://github.com/Maycowpq225/YoutubeAppAutomation](https://github.com/Maycowpq225/OlxPortugalAppAutomation)
-2 - Download Java SDK 21 and configure Global Environment.
-3 - Download Maven and add it to your Global Environment.
-4 - Download a IDE of your choice that supports Java.
-5 - Build the project and mvn on the IDE.
+- Clone the project from [https://github.com/Maycowpq225/YoutubeAppAutomation](https://github.com/Maycowpq225/OlxPortugalAppAutomation)
+- Download Java SDK 21 and configure Global Environment.
+- Download Maven and add it to your Global Environment.
+- Download a IDE of your choice that supports Java.
+- Build the project and mvn on the IDE.
 
 * Local tests execution
 
-1 - Choose a tag from tests on the folder features.
-2 - Open the file 'TestRunner'
-3 - On the annotation '@ConfigurationParameter' put the tag in field value.
+- Choose a tag from tests on the folder features.
+- Open the file 'TestRunner'
+- On the annotation '@ConfigurationParameter' put the tag in field value.
