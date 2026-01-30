@@ -15,7 +15,7 @@ Project created in order to automate tests from Phptravels flights WebSite, focu
 
 # How use
 
-* Installment/Preparation
+Installment/Preparation
 
 - Clone the project from [https://github.com/Maycowpq225/YoutubeAppAutomation](https://github.com/Maycowpq225/OlxPortugalAppAutomation)
 - Download Java SDK 21 and configure Global Environment.
@@ -23,7 +23,7 @@ Project created in order to automate tests from Phptravels flights WebSite, focu
 - Download a IDE of your choice that supports Java.
 - Build the project and mvn on the IDE.
 
-* Local tests execution
+Local tests execution
 
 - Choose a tag from tests on the folder features.
 - Open the file 'TestRunner'
